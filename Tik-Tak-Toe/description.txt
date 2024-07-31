@@ -1,0 +1,1 @@
+This project is a classic implementation of the Tic-Tac-Toe game, designed to provide a simple and engaging way to play the game against a computer opponent. The game is implemented using python using tikinter library, showcasing basic principles of game development and artificial intelligence
